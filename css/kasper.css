@@ -616,8 +616,8 @@ header nav .form i {
     -o-border-radius: 50%;
 }
 
-.plus-icon .fa-plus {
-    font-weight: normal;
+.plus-icon span {
+    font-size: 50px;
 }
 
 @media (max-width: 480px) {
